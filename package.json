@@ -1,0 +1,11 @@
+{
+  "name": "@snrgy/dep-audit",
+  "version": "0.1.0",
+  "description": "Objective dependency footprint measurement with transparent methodology",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts"
+  },
+  "keywords": ["dependencies", "audit", "metrics", "analysis"],
+  "license": "MIT"
+}
